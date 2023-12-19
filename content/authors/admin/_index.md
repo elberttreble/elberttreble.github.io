@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 钱俊衡
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Junheng Qian
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Junheng
+last_name: Qian
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🇨🇳
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,8 +21,8 @@ role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Sun Yat-sen University
+    url: https://www.sysu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
